@@ -1,0 +1,8 @@
+node_modules
+dist
+.history
+.idea
+.yo-rc.json
+.DS_Store
+package-lock.json
+yarn.lock
